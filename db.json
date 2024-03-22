@@ -85,18 +85,26 @@
       "amount": -975
     },
     {
-      "date": "2022-07-09",
-      "description": "Office lunch",
-      "category": "Food",
-      "amount": "2000",
-      "id": 13
+      "id": "de1b",
+      "date": "9991-08-09",
+      "description": "Dinah's Car bill",
+      "category": "Transportation",
+      "amount": ""
     },
     {
-      "date": "2022-07-09",
-      "description": "Office lunch Wednesday",
-      "category": "Food",
-      "amount": "3000",
-      "id": 14
+      "id": "2563",
+      "date": "1111-01-01",
+      "description": "oh hail Dynahh!!!!!!! we adore you ",
+      "category": "You know it!!!",
+      "amount": ""
+    },
+    {
+      "id": "d8e3",
+      "date": "0009-01-09",
+      "description": "ebay",
+      "category": "clothes",
+      "amount": "444"
     }
   ]
 }
+  
